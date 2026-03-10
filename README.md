@@ -1,4 +1,4 @@
-# 📱 TP Mobile - Tugas 1
+# TP Mobile - Tugas 1
 
 Aplikasi berbasis mobile yang dibangun menggunakan **Flutter (Bahasa Dart)**. Proyek kode ini disusun menggunakan struktur folder **modular** untuk kemudahan pengelolaan dan pemeliharaan logika di masa mendatang. Warna UI utama aplikasi ini adalah **Biru Laut** dengan warna pendukung **Putih**.
 
